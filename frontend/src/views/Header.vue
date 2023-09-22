@@ -20,7 +20,8 @@ const { themeSwitch } = useGlobalState()
                     亮色
                 </template>
             </n-switch>
-            <n-button tag="a" target="_blank" tertiary type="primary" round href="https://github.com/dreamhunter2333">Star
+            <n-button tag="a" target="_blank" tertiary type="primary" round
+                href="https://github.com/dreamhunter2333/gpt_tools">Star
                 on Github
             </n-button>
         </div>
